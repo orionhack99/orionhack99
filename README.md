@@ -36,7 +36,7 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Informations
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orionhack99&show_icons=true)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orionhack99&layout=compact)](https://github.com/orionhack99)
 
